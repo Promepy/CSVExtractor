@@ -62,7 +62,7 @@ function Form() {
           <h2 className="text-center sm:text-3xl font-bold text-black mt-4 mb-2 dark:text-neutral-200">
             CSV Extractor
           </h2>
-          <p>Test on 01-05-2026</p>
+          <p className="text-center sm:text-3xl text-black mt-4 mb-2 dark:text-neutral-100">Test on 01-05-2026</p>
           <form>
             <label className="block">
               <span className="sr-only">Choose file</span>
